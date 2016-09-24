@@ -1,0 +1,68 @@
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.exe.config
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.exe
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.pdb
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.xml
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\battlemenu.vbproj.GenerateResource.Cache
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\battlemenu.exe
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\battlemenu.xml
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\battlemenu.pdb
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.exe.config
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\battlemenu.exe
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\battlemenu.xml
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\battlemenu.pdb
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.exe
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.pdb
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\bin\Debug\battlemenu.xml
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\documents\Visual Studio 2010\Projects\half life battle levelselect\battlemenu\battlemenu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.exe.config
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.exe
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.xml
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.pdb
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.exe
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.pdb
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.xml
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.exe.config
+D:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.exe
+D:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.xml
+D:\documents\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.pdb
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.exe.config
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.exe
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.xml
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.pdb
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.exe
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.pdb
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\bin\Debug\battlemenu.xml
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Visual Studio 2010\Projects\Half-Life_2_arcade_front_end\Half-Life_2_arcade_front_end\battlemenu\obj\x86\Debug\battlemenu.vbproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\Testbeeld generator\Testbeeld generator\battlemenu\bin\Debug\battlemenu.exe.config
+F:\Visual Studio 2010\Projects\Testbeeld generator\Testbeeld generator\battlemenu\obj\x86\Debug\battlemenu.exe
+F:\Visual Studio 2010\Projects\Testbeeld generator\Testbeeld generator\battlemenu\obj\x86\Debug\battlemenu.xml
+F:\Visual Studio 2010\Projects\Testbeeld generator\Testbeeld generator\battlemenu\obj\x86\Debug\battlemenu.pdb

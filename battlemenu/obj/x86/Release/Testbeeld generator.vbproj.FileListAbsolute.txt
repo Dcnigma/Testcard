@@ -1,0 +1,21 @@
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Release\Testbeeld generator.exe.config
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Release\Testbeeld generator.exe.manifest
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Release\Testbeeld generator.application
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Release\Testbeeld generator.exe
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Release\Testbeeld generator.pdb
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Release\Testbeeld generator.xml
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.about.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.changetekst.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.Form1.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.Form2.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.Form3.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.line.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.Resources.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld.welcome.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld generator.vbproj.GenerateResource.Cache
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld generator.TrustInfo.xml
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld generator.exe.manifest
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld generator.application
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld generator.exe
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld generator.xml
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Release\Testbeeld generator.pdb

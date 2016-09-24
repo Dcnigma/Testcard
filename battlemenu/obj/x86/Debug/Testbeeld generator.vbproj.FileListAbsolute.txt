@@ -1,0 +1,22 @@
+F:\Visual Studio 2010\Projects\Testbeeld generator\Testbeeld generator\battlemenu\bin\Debug\Testbeeld generator.exe.config
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Debug\Testbeeld generator.exe.config
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Debug\Testbeeld generator.exe.manifest
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Debug\Testbeeld generator.application
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Debug\Testbeeld generator.exe
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Debug\Testbeeld generator.pdb
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\bin\Debug\Testbeeld generator.xml
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.about.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.changetekst.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.Form1.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.Form2.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.Form3.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.line.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.Resources.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld.welcome.resources
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld generator.vbproj.GenerateResource.Cache
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld generator.exe.manifest
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld generator.application
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld generator.exe
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld generator.xml
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld generator.pdb
+C:\Users\dclaptop\Documents\Visual Studio 2010\Projects\Testbeeld generator\battlemenu\obj\x86\Debug\Testbeeld generator.TrustInfo.xml

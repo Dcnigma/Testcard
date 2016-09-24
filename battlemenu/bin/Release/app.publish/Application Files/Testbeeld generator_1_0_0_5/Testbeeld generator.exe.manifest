@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Testbeeld generator.exe" version="1.0.0.5" publicKeyToken="cc710601b70520c2" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="tv.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Testbeeld generator" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Testbeeld generator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Testbeeld generator.exe" size="1418240">
+      <assemblyIdentity name="Testbeeld generator" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>R9Dw7MQWmg1CPlICuN908oF9DIg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Testbeeld generator.exe.config" size="9611">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Yib3WiiFPWJf0zCjI64jikRBlyw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="tv.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vmUOkPK7jKVneE0v9BU4AgjWaTg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=dclaptop-PC\dclaptop" issuerKeyHash="8ac30a3e7c5267abc39a9e44280ccd904b452f5e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>isYhpk2ERMNcuA3P1k1uDbeS+dw=</DigestValue></Reference></SignedInfo><SignatureValue>ospn/xt8T6xn3x9GHvLDdhjQyvxB3OCWnaudrCEeAlCw1Lmbz8m4MkUuX/xCo6SIvRapOptPzrBSSjy+m2XyET6eEeJFqrRtkHh4UJW9VLoIBgVfVK4kfK/yH/IGLRA+6uoySubEFQnZqDSYF/Z2a3r5USQFFhzPd7i9kL85T68=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zbduZGDRW2LAz1BkUaXWJhipEhvAnOIN7bEbyaC05Vv/JKV3PH42bSlcUBKNWi0HIIT0gMKG0q5GcBhzLi1UIRG+UULnIXWyMU7tiXJsGq2ezFNwi8KmRqOVIWb5AXYo6twdYCrjixyx4H/CcjEc2WtzFlNWVaQHm3oOB6Ywoh8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dcf992b70d6e4dd6cf0db85cc344844da621c68a" Description="" Url=""><as:assemblyIdentity name="Testbeeld generator.exe" version="1.0.0.5" publicKeyToken="cc710601b70520c2" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=dclaptop-PC\dclaptop</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>De/EPjwWLDn6TLaj0q72rD74aK0=</DigestValue></Reference></SignedInfo><SignatureValue>HwdTMQRr/suDZIknbgGKIjxmeeV+NjfnmVzcMqpqlrOm2vKk3FdzwRhiyKQTsj8RNx2CAFWDVt6qtg7i4tO5DmILVFybvINvcdwX61edX0j1GIg+o53XrG+SRoRZ6yiYbv5SkdVVPIOYiJ7AxKQU5Lb7PQzS53WAw7Aru4Sin7E=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zbduZGDRW2LAz1BkUaXWJhipEhvAnOIN7bEbyaC05Vv/JKV3PH42bSlcUBKNWi0HIIT0gMKG0q5GcBhzLi1UIRG+UULnIXWyMU7tiXJsGq2ezFNwi8KmRqOVIWb5AXYo6twdYCrjixyx4H/CcjEc2WtzFlNWVaQHm3oOB6Ywoh8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQby2ATWc7O79MRTURLfC6qzANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAZABjAGwAYQBwAHQAbwBwAC0AUABDAFwAZABjAGwAYQBwAHQAbwBwMB4XDTE2MDMwOTA2MjYwNloXDTE3MDMwOTEyMjYwNlowMzExMC8GA1UEAx4oAGQAYwBsAGEAcAB0AG8AcAAtAFAAQwBcAGQAYwBsAGEAcAB0AG8AcDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzbduZGDRW2LAz1BkUaXWJhipEhvAnOIN7bEbyaC05Vv/JKV3PH42bSlcUBKNWi0HIIT0gMKG0q5GcBhzLi1UIRG+UULnIXWyMU7tiXJsGq2ezFNwi8KmRqOVIWb5AXYo6twdYCrjixyx4H/CcjEc2WtzFlNWVaQHm3oOB6Ywoh8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQCr71SV3juFyWmge5u814tMr682ir2fxcWYsyBuoEvwtCoa4K1he9g/DYFT9TQxVc4E4MEMI27EoMu7BBIWxn19SADT8YrZ9Ta/Ut23xkrWZ5gn4Ev4bdRJ9MeR8H8pm1bGDq46TDF0OwsUW0EKp3IzSGkdQJGCL5n3tl+rkC72tw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
