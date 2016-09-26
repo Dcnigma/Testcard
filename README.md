@@ -41,6 +41,4 @@ Download: <a href="https://dl.dropboxusercontent.com/u/49200304/Testbeeld%20gen
 
 Source code : <a href="https://github.com/Dcnigma/Testcard" target="_blank">Github
 <a href="https://github.com/Dcnigma/Testcard" target="_blank">
-</a>Video demo:
-<iframe src="https://www.youtube.com/embed/Lnm3P82UD9c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</a>
+</a>Video demo: https://www.youtube.com/embed/Lnm3P82UD9c
