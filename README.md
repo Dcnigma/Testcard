@@ -38,3 +38,6 @@ My version got all basic functions that peter's version got i left out the RGB o
 </div>
 <div class="post_footer clearfix" data-subview="footer"></div>
 Download: <a href="https://dl.dropboxusercontent.com/u/49200304/Testbeeld%20generator.rar">Dropbox download. Testscreen app</a>
+Video demo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lnm3P82UD9c" frameborder="0" allowfullscreen></iframe>
+
